@@ -12,7 +12,7 @@ Sort Library is a library written in Go (Golang), If you need to sort, you can u
 
 + Insertion sort
 
-  ```
+  ```go
   func InsertSort (){}
   ```
 
