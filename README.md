@@ -2,50 +2,6 @@
 
 Sort Library is a library written in Go (Golang), If you need to sort, you can use this library
 
-## Included sorting method
-
-+ Select sort
-
-  ```go
-  func SelectSort (){}
-  ```
-
-+ Insertion sort
-
-  ```go
-  func InsertSort (){}
-  ```
-
-+ Bubble Sort
-
-  ```go
-  func BubbleSort (){}
-  ```
-
-+ Merge sort
-
-  ```go
-  func MergeSort (){}
-  ```
-
-+ Quick sort
-
-  ```go
-  func QuickSort (){}
-  ```
-
-+ Hill sort
-
-  ```go
-  func ShellSort (){}
-  ```
-
-+ Heap sort
-
-  ```
-  func HeapSort (){}
-  ```
-
 ## Installation
 
 To installpackage, you need to install Go and set your Go workspace first.
@@ -88,5 +44,47 @@ $ go run main.go
 [3 23 43 232 234 343]
 ```
 
+## Included sorting method
 
++ Select sort
+
+  ```go
+  func SelectSort (){}
+  ```
+
++ Insertion sort
+
+  ```go
+  func InsertSort (){}
+  ```
+
++ Bubble Sort
+
+  ```go
+  func BubbleSort (){}
+  ```
+
++ Merge sort
+
+  ```go
+  func MergeSort (){}
+  ```
+
++ Quick sort
+
+  ```go
+  func QuickSort (){}
+  ```
+
++ Hill sort
+
+  ```go
+  func ShellSort (){}
+  ```
+
++ Heap sort
+
+  ```go
+  func HeapSort (){}
+  ```
 
